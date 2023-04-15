@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: defauilConfig
+# spring:
+#   application:
+#     name: defauilConfig
 eureka:
   client:
    service-url:
